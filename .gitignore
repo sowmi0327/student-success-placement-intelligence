@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temp/cache files
+*.pbix.bak
+~$*.pbix
+
+# Large raw data (optional — remove this line if you want the raw CSV tracked)
+# data/raw/*.csv
